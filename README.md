@@ -72,6 +72,39 @@
   <img src="https://streak-stats.demolab.com?user=mehulpatel23b-pixel&hide_border=true&bg_color=0d1117&ring_color=00FF41&fire_color=00FF41&currStreakNum_color=00FF41&sideNums_color=00FF41&currStreakLabel_color=00FF41&sideLabels_color=c9d1d9&dates_color=c9d1d9" alt="streak" />
 </p>
 
+### ▸ `./map_traffic --window 12mo` *(yearly contribution signal)*
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehulpatel23b-pixel&bg_color=0d1117&color=c9d1d9&line=00FF41&point=00FF41&area=true&hide_border=true&title_color=00FF41" alt="activity graph" />
+</p>
+
+### ▸ `./list_trophies --all` *(unlocked achievements)*
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mehulpatel23b-pixel&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
+</p>
+
+---
+
+### ▸ `./pinned --top-targets` *(flagship projects)*
+
+<p align="center">
+  <a href="https://github.com/mehulpatel23b-pixel/bruteradar">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehulpatel23b-pixel&repo=bruteradar&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" alt="bruteradar" />
+  </a>
+  <a href="https://github.com/mehulpatel23b-pixel/repo-radar">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehulpatel23b-pixel&repo=repo-radar&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" alt="repo-radar" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/mehulpatel23b-pixel/commit-sleuth">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehulpatel23b-pixel&repo=commit-sleuth&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" alt="commit-sleuth" />
+  </a>
+  <a href="https://github.com/mehulpatel23b-pixel/skill-doctor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehulpatel23b-pixel&repo=skill-doctor&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" alt="skill-doctor" />
+  </a>
+</p>
+
 ---
 
 ### ▸ `tail -f activity.log`
@@ -79,6 +112,12 @@
 <p align="center">
   <img src="https://github.com/mehulpatel23b-pixel/mehulpatel23b-pixel/raw/output/github-snake.svg" alt="the grid is being eaten" />
 </p>
+
+---
+
+### ▸ `./yearly_review --report 2026` *(yearly analysis)*
+
+> 📊 Full yearly breakdown lives in **[yearly-analysis](https://github.com/mehulpatel23b-pixel/yearly-analysis)** — every repo, language and trend, scanned and archived.
 
 ---
 
