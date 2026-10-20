@@ -1,66 +1,92 @@
-<div align="center">
+```
+███╗   ███╗███████╗██╗  ██╗██╗   ██╗██╗
+████╗ ████║██╔════╝██║  ██║██║   ██║██║
+██╔████╔██║█████╗  ███████║██║   ██║██║
+██║╚██╔╝██║██╔══╝  ██╔══██║██║   ██║██║
+██║ ╚═╝ ██║███████╗██║  ██║╚██████╔╝███████╗
+╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
+```
 
-<img src="https://read-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=F7B733&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Mehul+Patel;Web+Developer+%7C+Automation+Builder;I+turn+ideas+into+working+products" alt="typing" />
+<p align="center">
+  <img src="https://read-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=00FF41&center=true&vCenter=true&width=700&lines=root%40pixel%3A~%24+whoami;Mehul+Patel+%E2%80%94+Web+Developer+%C3%97+Automation+Architect;building+the+bots+that+do+the+work;%5BACCESS+GRANTED%5D+%E2%9A%A1" alt="terminal" />
+</p>
 
-</div>
-
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=mehulpatel23b-pixel&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/mehulpatel23b-pixel)
-
-</div>
-
----
-
-### 🚀 About Me
-
-- 💻 Self-driven developer from **India** 🇮🇳
-- 🏗️ Building **automation systems** that find clients and deliver products on their own
-- 🌐 Currently working on: **SiteSeller Agent** — an automated lead-generation + demo-website engine for local businesses
-- 🔍 Interested in **web scraping, security automation & AI agents**
-- ⚡ Fun fact: I'd rather build a robot to do the work than do the work
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mehulpatel23b-pixel&color=00FF41&style=for-the-badge&label=PACKETS+INTERCEPTED" alt="views" />
+  <img src="https://img.shields.io/badge/style-black%20hat-000000?style=for-the-badge&logo=gnu-bash&logoColor=00FF41" alt="style" />
+  <img src="https://img.shields.io/badge/ethics-white%20hat-000000?style=for-the-badge&logo=hackaday&logoColor=00FF41" alt="ethics" />
+  <img src="https://img.shields.io/badge/uptime-24%2F7%2F365-000000?style=for-the-badge&logo=linux&logoColor=00FF41" alt="uptime" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+```bash
+┌──(mehul@pixel)-[~/universe]
+└─$ ./init_profile.sh
 
-<div align="center">
+[+] Scanning target environment.......... OK
+[+] Spoofing corporate template.......... OK
+[+] Injecting automation protocols....... OK
+[+] Rooting the workflow................. OK
+[*] Access level: ROOT
+```
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### ▸ `cat about_me.txt`
 
-</div>
+```bash
+┌──(mehul@pixel)-[~]
+└─$ cat about_me.txt
+```
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mehulpatel23b-pixel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehulpatel23b-pixel&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="languages" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Profile Snake
-
-<img src="https://github.com/mehulpatel23b-pixel/mehulpatel23b-pixel/raw/output/github-snake.svg" alt="snake animation" />
-
-</div>
+- 💻 Self-driven developer operating from **India** 🇮🇳 — <sub>`loc: 127.0.0.1`</sub>
+- 🏗️ Building **autonomous systems** that find clients, generate demos, and ship products without human hands on the keyboard
+- 🌐 Active project: **SiteSeller Agent** — a self-running lead-gen + demo-website engine
+- 🔍 Deep in **web scraping, security automation & AI agents**
+- ⚡ Motto: *"Why do the work when I can compile something that does it for me?"*
 
 ---
 
-<div align="center">
+### ▸ `ls arsenal/`
 
-💡 *"Automate what you can, build what you can't buy."*
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41" alt="python" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41" alt="js" />
+  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=00FF41" alt="bash" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=00FF41" alt="flask" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF41" alt="html" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF41" alt="css" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41" alt="git" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41" alt="linux" />
+</p>
 
-</div>
+---
+
+### ▸ `./dump_stats --target mehulpatel23b-pixel`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehulpatel23b-pixel&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0d1117" height="165" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehulpatel23b-pixel&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" height="165" alt="langs" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mehulpatel23b-pixel&hide_border=true&bg_color=0d1117&ring_color=00FF41&fire_color=00FF41&currStreakNum_color=00FF41&sideNums_color=00FF41&currStreakLabel_color=00FF41&sideLabels_color=c9d1d9&dates_color=c9d1d9" alt="streak" />
+</p>
+
+---
+
+### ▸ `tail -f activity.log`
+
+<p align="center">
+  <img src="https://github.com/mehulpatel23b-pixel/mehulpatel23b-pixel/raw/output/github-snake.svg" alt="the grid is being eaten" />
+</p>
+
+---
+
+```bash
+┌──(mehul@pixel)-[~]
+└─$ echo $PHILOSOPHY
+"Automate what you can. Build what you can't buy.
+ Stay low. Move silent. Ship fast."
+```
+
+<p align="center"><i>// EOF — connection closed by remote host ⚡</i></p>
