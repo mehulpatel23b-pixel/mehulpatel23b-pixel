@@ -147,15 +147,24 @@ A finding you cannot explain is a finding nobody fixes. So each result looks lik
 
 ---
 
-## ▸ Newest builds
+## ▸ Phishing triage suite
 
-| Repo | What it does |
-| :-- | :-- |
-| [alertfuse](https://github.com/mehulpatel23b-pixel/alertfuse) | Fuses duplicate alerts from many tools into one explainable SOC incident queue |
-| [relaymap](https://github.com/mehulpatel23b-pixel/relaymap) | Maps which NTLM coercion-to-target relay paths are still live, and the cheapest way to kill them |
-| [sigmanoise](https://github.com/mehulpatel23b-pixel/sigmanoise) | Scores how noisy a Sigma rule will be against real logs before you turn it on |
-| [mcpseal](https://github.com/mehulpatel23b-pixel/mcpseal) | Audits MCP server config: hardcoded secrets, unpinned packages, over-broad roots, auto-approved tools |
-| [ciradius](https://github.com/mehulpatel23b-pixel/ciradius) | Maps the blast radius of a CI credential leak and orders rotation by reachability |
+A reported phish moves through five questions. There is a tool for each, and all of them run offline.
+
+| Stage | Tool | The question it answers |
+| :-- | :-- | :-- |
+| Link in the mail | [redirectchain](https://github.com/mehulpatel23b-pixel/redirectchain) | Where does the chain really end, and where does the trust break on the way |
+| Page saved by a user | [formguard](https://github.com/mehulpatel23b-pixel/formguard) | Where does the password post, does the brand match the host, what exfiltrates |
+| Attachment forwarded | [attachscan](https://github.com/mehulpatel23b-pixel/attachscan) | What the file really is, past the extension: macro, smuggling, encrypted zip, LNK |
+| Thread escalated | [becscan](https://github.com/mehulpatel23b-pixel/becscan) | Who is actually in the conversation: name reuse, lookalike domain, bank change |
+| Domain being imitated | [typosquat](https://github.com/mehulpatel23b-pixel/typosquat) | Which lookalike domains exist right now, and which technique built them |
+| Impersonation already live | [dmarcrpt](https://github.com/mehulpatel23b-pixel/dmarcrpt) | Which IPs send as your domain and fail both DKIM and SPF |
+
+Older triage pieces that pair with the suite:
+[mailcase](https://github.com/mehulpatel23b-pixel/mailcase) (raw mail, 57 checks) ·
+[phishverdict](https://github.com/mehulpatel23b-pixel/phishverdict) (URL scoring) ·
+[spoofscope](https://github.com/mehulpatel23b-pixel/spoofscope) (SPF/DMARC posture) ·
+[hdrscope](https://github.com/mehulpatel23b-pixel/hdrscope) (security headers)
 
 ---
 
